@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+    background: linear-gradient(to top right, rgb(140, 0, 255), rgb(231, 95, 5));
+    height: 100vh;
+}
+
+.navbar{
+height: 50px;
+width: auto;
+background: hsla(253, 94%, 28%, 0.322);
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.navbar ul{
+  display: flex;
+  list-style: none;
+  color: white;
+  text-decoration: none;
+  gap: 15px;
+
+}
