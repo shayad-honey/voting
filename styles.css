@@ -54,13 +54,14 @@ align-items: center;
   justify-content: center;                         
   }
 .login-form{
-  padding: 15px;
+  padding:25px 15px;
   width: 450px;
   flex-wrap: wrap;
   display: flex;
   background: rgba(63, 61, 61, 0.527);
   justify-content: center;
   color: white;
+  row-gap: 10px;
 
   
 button{
